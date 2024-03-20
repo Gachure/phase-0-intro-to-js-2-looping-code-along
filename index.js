@@ -22,5 +22,5 @@ function writeCards(names, event) {
     }
   }
   
-  countDown(5); // Replace 5 with any starting number you want
+  countDown(5); 
   
